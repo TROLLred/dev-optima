@@ -1,0 +1,19 @@
+.primary {
+	background: var(--primary-blue);
+
+	&:hover,
+	&:active {
+		background: var(--secondary-blue);
+	}
+}
+
+.outlined {
+	border: 1px solid var(--primary-blue);
+	background: #243bb933;
+
+	&:hover,
+	&:active {
+		border-color: var(--secondary-blue);
+		background: #243bb980;
+	}
+}

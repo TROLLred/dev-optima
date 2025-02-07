@@ -1,0 +1,17 @@
+.solutionCard {
+	border: 1px solid;
+	border-radius: 16px;
+	overflow: hidden;
+	border-image-source: linear-gradient(
+		180deg,
+		rgba(116, 159, 246, 0.3) 0%,
+		rgba(21, 57, 132, 0.3) 100%
+	);
+	background: linear-gradient(
+		180deg,
+		rgba(33, 66, 136, 0.25) 0%,
+		rgba(8, 20, 43, 0.25) 100%
+	);
+	backdrop-filter: blur(48px);
+	box-shadow: 0px 10px 40px 0px #0000004d;
+}

@@ -1,0 +1,17 @@
+.invitationTitle {
+	font-weight: 400;
+	font-size: 48px;
+	line-height: 54px;
+	letter-spacing: -1%;
+	font-family: 'Aeonik';
+	background: linear-gradient(
+		90deg,
+		rgba(109, 156, 246, 0.7) -8.51%,
+		rgba(195, 214, 251, 0.876516) 10.33%,
+		#ffffff 51.91%,
+		rgba(208, 223, 252, 0.90333) 87.66%,
+		rgba(109, 156, 246, 0.7) 109.79%
+	);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
